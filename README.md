@@ -10,4 +10,4 @@ using html and php...
 * setting web-page to user specific anmes 
 * creating and using forget me feature
 
-Running Pyhtno from php
+Running Python from php
